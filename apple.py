@@ -1,3 +1,2 @@
 
-print("I eat one 🍎")
-
+print("I eat ten 🍎s")
