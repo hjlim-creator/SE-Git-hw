@@ -1,2 +1,2 @@
 
-print("I eat 🍎")
+print("I eat two 🍎s")
